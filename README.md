@@ -22,7 +22,7 @@ pip install tensorflow numpy
 To run the program, navigate to the project directory and execute the following command:
 
 ```bash
-python py.py
+python neural.py
 ```
 
 You will be prompted to enter a kilometer value, and the program will output the equivalent miles based on the prediction from the neural network.

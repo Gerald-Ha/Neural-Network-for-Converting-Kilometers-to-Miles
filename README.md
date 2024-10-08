@@ -46,6 +46,4 @@ Please enter a kilometer value: 10
 10 kilometers is approximately 6.21371 miles
 ```
 
-## License
 
-This is a school project and is not under any specific license.
